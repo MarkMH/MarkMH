@@ -1,3 +1,5 @@
+
+![](https://github.com/MarkMH/homotopy_methods/blob/672e4de847a4eebbf1cf100c12f82b3a7d2274df/images/banner_blanco.jpg)
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">I am a scientist by training, increasingly excited about AI as a means of data analysis.</h3>
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/RiQwP7SRR9kZ1WEfES/giphy.gif">
