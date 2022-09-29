@@ -1,5 +1,5 @@
 
-![](https://github.com/MarkMH/homotopy_methods/blob/d0f784842eef28850f81e938063579a2e7368b16/images/preethi.jpg)
+![](https://github.com/MarkMH/homotopy_methods/blob/1494cf970395cfb4928e8915df39bbdefe49e601/images/netz_short.jpg)
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">I am a scientist by training, increasingly excited about AI as a means of data analysis.</h3>
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/RiQwP7SRR9kZ1WEfES/giphy.gif">
