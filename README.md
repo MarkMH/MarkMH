@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">I am a scientist by training, increasingly excited about AI as a means of data analysis.</h3>
-<img align="right" width="200" src="https://media.giphy.com/media/3osxYriVAzYEW5Le92/giphy.gif">
+
 
 
 
