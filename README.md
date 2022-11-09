@@ -11,11 +11,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markmh&label=Profile%20views&color=0e75b6&style=flat" alt="markmh" /> </p>
 
-- 🔭 I’m currently working on CS50x
+- 🌱 I'm currently working on a project for Harvardx CS50x involving Front- and Backend-Development, as well as embedding SQL**
 
-- 🌱 I’m currently learning **More about the deep-rooted fundamentals of computer science and the programming in C, as well as getting started with SQL.**
-
-- 👨‍💻 All of my projects are soon available
+- 👨‍💻 You can find a short overview of all my projects here: markmh.github.io
 
 - 💬 Ask me about **ROC-AUC vs. Precision-Recall**
 
