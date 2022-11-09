@@ -11,9 +11,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markmh&label=Profile%20views&color=0e75b6&style=flat" alt="markmh" /> </p>
 
-- 🌱 I'm currently working on a project for Harvardx CS50x involving Front- and Backend-Development, as well as embedding SQL**
+- 🌱 I'm currently working on a project for Harvardx CS50x involving Front- and Backend-Development, as well as embedding SQL
 
-- 👨‍💻 You can find a short overview of all my projects here: markmh.github.io
+- 👨‍💻 You can find a short overview of a selection of my projects here: **<a href="https://www.markmh.github.io">markmh.github.io</a>**
 
 - 💬 Ask me about **ROC-AUC vs. Precision-Recall**
 
