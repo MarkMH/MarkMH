@@ -1,6 +1,6 @@
 
 ![](https://github.com/MarkMH/images_profile/blob/9824102e3590f3daa197fd67c7edecfe26937775/Fotor_AI.jpg)
-<h2 align="center">Hi 👋, I'm Mark, I am a scientist by training working as Data Engineer at Deutsche Post DHL Group
+<h2 align="center">Hi I'm Mark👋, I'm a scientist by training working as a Data Engineer at Deutsche Post DHL Group
 </h2>
 <img align="right" alt="Coding" width="275" src="https://github.com/MarkMH/images_profile/blob/c4c04cd281222159b0bbf43da0d796e58089620a/fotor-ai-20230507114514.png">
 
