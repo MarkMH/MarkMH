@@ -1,6 +1,6 @@
 
 ![](https://github.com/MarkMH/images_profile/blob/3aca24f3b5b2a1bdf4f4b4b902416f8b28cfe2c3/Fotor_AI(21).jpg)
-<h2 align="center">Hi I'm Mark👋, I'm a scientist by training working as a Data Engineer at Deutsche Post DHL Group
+<h2 align="center">Hi I'm Mark👋, Data Engineer at Deutsche Post DHL Group with a scientific background
 </h2>
 <img align="right" alt="Coding" width="275" src="https://github.com/MarkMH/images_profile/blob/c3387bb665556ae9bf90b0b8dca6ff0530dd13c2/fotor-ai-2023050874114.jpg">
 
@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markmh&label=Profile%20views&color=0e75b6&style=flat" alt="markmh" /> </p>
 
-- 🌳 My work deals with the creation and maintenance of Big-Data pipelines, along with the development of associated ML-models for predicting customer behavior
+- 🌳 My work deals with the creation and maintenance of Big-Data pipelines, along with the development of associated ML-models for time series forecasting 
 
 - 📚 In my spare time, I work on my own projects and continue my studies, for instance, through various CS50 courses offered by Harvardx
 
