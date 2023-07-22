@@ -1,8 +1,9 @@
 
-![](https://github.com/MarkMH/images_profile/blob/3aca24f3b5b2a1bdf4f4b4b902416f8b28cfe2c3/Fotor_AI(21).jpg)
-<h2 align="center">Hi I'm Mark👋, Data Engineer at Deutsche Post DHL Group with a scientific background
+![](https://github.com/MarkMH/images_profile/blob/747dbb09eb5bfb04ad26beafbfd5d45fd0385d52/fotor-ai-2023072212023_short.jpg)
+
+<h2 align="center">Hi I'm Mark👋,  Data Engineer at Deutsche Post DHL Group with a scientific background
 </h2>
-<img align="right" alt="Coding" width="275" src="https://github.com/MarkMH/images_profile/blob/120be0a0867480ea32cf814b5ddeec79c2839ed9/dhl.png">
+
 
 
 
