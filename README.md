@@ -1,15 +1,15 @@
 
 ![](https://github.com/MarkMH/images_profile/blob/747dbb09eb5bfb04ad26beafbfd5d45fd0385d52/fotor-ai-2023072212023_short.jpg)
 
-<h2 align="center">Hi I'm Mark👋,  Data Engineer at DHL Group with a scientific background
+<h2 align="center">Hi I'm Mark👋,  ML Engineer at DHL Group with a scientific background
 </h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markmh&label=Profile%20views&color=0e75b6&style=flat" alt="markmh" /> </p>
 
-- 🌳 My work centers on ETL and MLOps for time series big data, mainly in the context of quantity forecasting  
+- 🌳 My work centers on Big Data ETL, MLOps and ML time series forecasts  
 
-- 📚 In my spare time I like to work on my own projects and further educate myself, e.g. with the help of the amazing computer science courses from Harvardx 
+- 📚 In my spare time I like to work on my pet projects and continue my education, e.g. with the help of the amazing computer science courses offered by the Harvard University 
 
 - 🌌 You can find a short overview of the projects I am legally allowed to share here: **<a href="https://markmh.github.io/">markmh.github.io</a>**
 
