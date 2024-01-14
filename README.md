@@ -11,7 +11,10 @@
 
 - 🌳 In my free time, I embrace the outdoors and pursue continuous learning and growth, you can find a my pet projects here: **<a href="https://markmh.github.io/">markmh.github.io</a>**
 
-- 📫 As of my scientific background, I am always curious to chat about new ideas or novel approaches. Get in touch: <a href="https://www.linkedin.com/in/mark-marner-hausen-854a3a117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mark marner-hausen" height="15" width="20" /></a>
+- 📫 As of my scientific background, I am always curious to chat about new ideas or novel approaches. Get in touch: 
+    <a href="https://www.linkedin.com/in/mark-marner-hausen-854a3a117/" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mark marner-hausen" style="height: 1em; width: auto;">
+    </a>
 </p>
 
 - ⚡ Fun fact, **I am passionate about working dogs**
